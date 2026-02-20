@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/notes";
+const API_URL = "https://quick-sticky-notes-backend.onrender.com/notes";
 
 window.addEventListener("DOMContentLoaded", async () => {
  
